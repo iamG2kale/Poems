@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Poems</string>
+    <string-array name="poems">
+        <item>"Aiku Yete Navya Premachi Saad"</item>
+        <item>"Ayushya- Ek Bhog"</item>
+        <item>"Pavsaala"</item>
+        <item>"Aiku Yete Navya Premachi Saad Aata"</item>
+        <item>"PremRatra"</item>
+        <item>"Bagh Majhi Athvan Yete Ka"</item>
+        <item>"Pari"</item>
+
+
+    </string-array>
+
+
+</resources>
