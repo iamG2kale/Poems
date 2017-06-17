@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         F_name = getResources().getStringArray(R.array.poems);
         int i = 0;
         for (String name : F_name) {
-            DataProvider dataprovider = new DataProvider(img_res[1], name);
+            DataProvider dataprovider = new DataProvider(img_res[i], name);
             arrayList.add(dataprovider);
             i++;
         }
